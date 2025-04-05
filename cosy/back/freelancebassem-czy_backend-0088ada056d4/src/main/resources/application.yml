@@ -12,8 +12,8 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/realestateDB
-    username: cosy
-    password: Moetez2025
+    username:cosy
+    password:Moetez@2025!
 
   jpa:
     hibernate:
